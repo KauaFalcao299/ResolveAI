@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { id: 'mistralai/mistral-large-2-instruct', name: 'Mistral Large 2' }
             ],
             visionModels: [
-                { id: 'meta/llama-3.2-11b-vision-instruct', name: 'Llama 3.2 11B Vision Instruct' }
+                { id: 'nvidia/llama-3.1-nemotron-nano-vl-8b-v1', name: 'Llama 3.1 Nemotron Nano' }
             ]
         },
         deepseek: {

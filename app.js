@@ -18,8 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { id: 'deepseek-r1-distill-llama-70b', name: 'DeepSeek R1 Distill 70B' }
             ],
             visionModels: [
-                { id: 'llama-3.2-11b-vision-preview', name: 'Llama 3.2 11B Vision' },
-                { id: 'llama-3.2-90b-vision-preview', name: 'Llama 3.2 90B Vision' }
+                { id: 'qwen/qwen3.6-27b', name: 'Qwen 3.6 27B' }
             ]
         },
         openai: {
